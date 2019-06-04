@@ -1,0 +1,52 @@
+Username,Firstname,Lastname,Middlename,Contactnumber, Campusname,Password,Userrole,DOB,Image,Major,DateOfGraduation,Address Line1,Address Line2,Zipcode,State,City,NUID
+bakshi.a@husky.neu.edu,Apurva,Bakshi,A,8796787890,Boston,apurva123,Incoming Student,10/13/1992,F:\AED_Project\Source Code\aed-project\NEUPlexus\images,IS,8/30/2020,231 Huntington Ave,Apt 3,2123,MA,Boston,11203
+sharma.new@husky.neu.edu,Newzy,Sharma,A,8796787890,Boston,apurva123,Current Student,10/13/1992,C:/abc,IS,8/30/2020,231 Huntington Ave,Apt 3,2123,MA,Boston,11203
+test,Apurva,Bakshi,A,8796787890,Boston,test,Admin,10/13/1992,C:/abc,IS,8/30/2020,231 Huntington Ave,Apt 3,2123,MA,Boston,11203
+test1,Newzy,Sharma,A,8796787890,Boston,test,Current Student,10/13/1992,C:/abc,IS,8/30/2020,231 Huntington Ave,Apt 3,2123,MA,Boston,11203
+pathak.sha@husky.neu.edu,shardul,pathak,swaroop,8573344033,Boston,test,Alumni,5/4/1994,C:/abc,IS,8/30/2020,39 hemenway street,apt 10,2115,MA,Boston,11203
+dhawan.yash@husky.neu.edu,Yash,Dhawan,Y,8578914640,Boston,yash112494,CurrentStudent,11/24/1994,C:/abc,EM,8/30/2020,34 Mass Avenue,Apt 550,2116,MA,Boston,5732
+dhawan.misha@husky.neu.edu,Misha,Dhawan,M,8578914641,Boston,misha71793,IncomingStudent,7/17/1993,C:/abc,EM,8/30/2020,HouseNb 701,Sector 11B,160011,Chandigarh,Chandigarh,5732
+jindal.khushboo@husky.neu.edu,Khushboo,Jindal,K,8578914642,Boston,khush10295,IncomingStudent,10/2/1995,C:/abc,CS,8/30/2020,HouseNb 702,Sector 11B,160011,Chandigarh,Chandigarh,5732
+manoca.naman@husky.neu.edu,Naman,Manocha,N,8578914643,Boston,naman20993,IncomingStudent,9/20/1993,C:/abc,CS,8/30/2020,HouseNb 704,Sector 11B,160011,Chandigarh,Chandigarh,5732
+bhavn.sharma@husky.neu.edu,Bhavn,Sharma,B,8578914644,Boston,bhavn1699,IncomingStudent,1/6/1999,C:/abc,CS,8/30/2020,HouseNb 705,Sector 11B,160011,Chandigarh,Chandigarh,5732
+shelly.madan@husky.neu.edu,Shelly,Madan,S,8578914645,Boston,shelly11891,IncomingStudent,1/18/1991,C:/abc,IS,8/30/2020,HouseNb 706,Sector 11B,160011,Chandigarh,Chandigarh,5732
+manocha.newzy@husky.neu.edu,Newzy,Manocha,N,8578914646,Boston,newzy209,IncomingStudent,9/20/1993,C:/abc,IS,8/30/2020,HouseNb 707,Sector 11B,160011,Chandigarh,Chandigarh,5732
+aggarwal.rinkle@husky.neu.edu,Rinkle ,Aggarwal,R,8578914647,Boston,rinkle2195,IncomingStudent,2/1/1995,C:/abc,IS,8/30/2020,HouseNb 708,Sector 11B,160011,Chandigarh,Chandigarh,5732
+gupta.neha@husky.neu.edu,Neha,Gupta,N,8578914648,Boston,neha2290,IncomingStudent,2/2/1990,C:/abc,IS,8/30/2020,HouseNb 709,Sector 11B,160011,Chandigarh,Chandigarh,5732
+oberoi.anmol@husky.neu.edu,Anmol ,Oberoi,A,8578914649,Boston,anmol2393,CurrentStudent,2/3/1993,C:/abc,IS,8/30/2020,115 St Stephen Street,Apt 11,2115,MA,Boston,5732
+sharma.prerna@husky.neu.edu,Prerna,Sharma,P,8578914650,Boston,prerna2495,CurrentStudent,2/4/1995,C:/abc,CS,8/30/2020,115 St Stephen Street,Apt 12,2115,MA,Boston,5732
+bhasin.divya@husky.neu.edu,Divya,Bhasin,D,8578914651,Boston,divya2593,CurrentStudent,2/5/1993,C:/abc,CS,8/30/2020,115 St Stephen Street,Apt 13,2115,MA,Boston,5732
+dhiman.sheryl@husky.neu.edu,Sheryl,Dhiman,S,8578914652,Boston,sheryl2693,IncomingStudent,2/6/1993,C:/abc,EM,8/30/2020,HouseNb 710,Sector 11B,160011,Chandigarh,Chandigarh,5732
+singh.vikas@husky.neu.edu,Vikas,Singh,V,8578914653,Boston,vikas112992,CurrentStudent,11/29/1992,C:/abc,EM,8/30/2020,34 Mass Avenue,Apt 14,2116,MA,Boston,5732
+sharma.rishav@husky.neu.edu,Rishav,Sharma,R,8578914654,Boston,rishav81592,CurrentStudent,8/15/1992,C:/abc,EM,8/30/2020,34 Mass Avenue,Apt 15,2116,MA,Boston,5732
+gupta.abhishek@husky.neu.edu,Abhishek,Gupta,A,8578914655,Boston,abhishek4394,CurrentStudent,4/3/1994,C:/abc,EM,8/30/2020,34 Mass Avenue,Apt 16,2116,MA,Boston,5732
+manocha.kirti@husky.neu.edu,Kirti,Manocha,K,8578914655,Boston,kirti11290,CurrentStudent,11/2/1990,C:/abc,CS,8/30/2020,39 Hemenway,Apt 17,2123,MA,Boston,5732
+manocha.parul@husky.neu.edu,Parul,Manocha,P,8578914656,Boston,parul112086,CurrentStudent,11/20/1986,C:/abc,CS,8/30/2020,39 Hemenway,Apt 18,2123,MA,Boston,5732
+dhir.luv@husky.neu.edu,Luv,Dhir,L,8578914657,Boston,luv3594,CurrentStudent,3/5/1994,C:/abc,CS,8/30/2020,39 Hemenway,Apt 19,2123,MA,Boston,5732
+joshi.robin@husky.neu.edu,Robin,Joshi,R,8578914658,Boston,robin62691,CurrentStudent,6/26/1991,C:/abc,CS,8/30/2020,39 Hemenway,Apt 20,2123,MA,Boston,5732
+sharma.vivek@husky.neu.edu,Vivek,Sharma,V,8578914659,Boston,vivek9392,CurrentStudent,9/3/1992,C:/abc,CS,8/30/2020,39 Hemenway,Apt 21,2123,MA,Boston,5732
+sharma.neetu@husky.neu.edu,Neetu,Sharma,N,8578914660,Boston,neetu3794,IncomingStudent,3/7/1994,C:/abc,CS,8/30/2020,HouseNb 711,Sector 11B,160011,Chandigarh,Chandigarh,5732
+sarswat.manyu@husky.neu.edu,Manyu,Sarawat,M,8578914661,Boston,manyu5495,IncomingStudent,5/4/1995,C:/abc,CS,8/30/2020,HouseNb 712,Sector 11B,160011,Chandigarh,Chandigarh,5732
+khanna.mahima@husky.neu.edu,Mahima,Khanna,M,8578914662,Boston,mahima2993,IncomingStudent,2/9/1993,C:/abc,CS,8/30/2020,HouseNb 723,Sector 11B,160011,Chandigarh,Chandigarh,5732
+sharma.gazal@husky.neu.edu,Gazal,Sharma,G,8578914663,Boston,gazal7794,IncomingStudent,7/7/1994,C:/abc,IS,8/30/2020,HouseNb 714,Sector 11B,160011,Chandigarh,Chandigarh,5732
+sharma.anmol@husky.neu.edu,Anmol ,Sharma,A,8578914664,Boston,anmol6694,IncomingStudent,6/6/1994,C:/abc,IS,8/30/2020,HouseNb 715,Sector 11B,160011,Chandigarh,Chandigarh,5732
+dargan.vrinda@husky.neu.edu,Vrinda,Dargan,V,8578914665,Boston,vrinda5595,CurrentStudent,5/5/1995,C:/abc,IS,8/30/2020,115 St Stephen Street,Apt 22,2115,MA,Boston,5732
+dargan.sanjana@husky.neu.edu,Sanjana,Dargan,S,8578914666,Boston,sanjana6692,IncomingStudent,6/6/1992,C:/abc,IS,8/30/2020,HouseNb 716,Sector 11B,160011,Chandigarh,Chandigarh,5732
+vashisht.abhishek@husky.neu.edu,Abhishek,Vashisht,A,8578914667,Boston,abhishek4493,IncomingStudent,4/4/1993,C:/abc,IS,8/30/2020,HouseNb 717,Sector 11B,160011,Chandigarh,Chandigarh,5732
+vashisht.sahil@husky.neu.edu,Sahil,Vashisht,S,8578914668,Boston,sahil3393,CurrentStudent,3/3/1993,C:/abc,EM,8/30/2020,115 St Stephen Street,Apt 23,2115,MA,Boston,5732
+sharma.mehak@husky.neu.edu,Mehak,Sharma,M,8578914669,Boston,mehak31294,IncomingStudent,3/12/1994,C:/abc,EM,8/30/2020,HouseNb 718,Sector 11B,160011,Chandigarh,Chandigarh,5732
+sharma.yatin@husky.neu.edu,Yatin,Sharma,Y,8578914670,Boston,yatin11390,CurrentStudent,11/3/1990,C:/abc,EM,8/30/2020,39 Hemenway,Apt 10,2123,MA,Boston,5732
+gupta.jhalak@husky.neu.edu,Jhalak,Gupta,J,8578914671,Boston,jhalak3494,IncomingStudent,3/4/1994,C:/abc,EM,8/30/2020,HouseNb 719,Sector 11B,160011,Chandigarh,Chandigarh,5732
+pulani.varun@husky.neu.edu,Varun,Pulani,V,8578914672,Boston,varun8793,IncomingStudent,8/7/1993,C:/abc,EM,8/30/2020,HouseNb 720,Sector 11B,160011,Chandigarh,Chandigarh,5732
+pulani.komal@husky.neu.edu,Komal,Pulani,K,8578914673,Boston,komal1492,CurrentStudent,1/4/1992,C:/abc,CS,8/30/2020,115 St Stephen Street,Apt 24,2115,MA,Boston,5732
+sharma.rahul@husky.neu.edu,Rahul,Sharma,R,8578914674,Boston,rahul2793,CurrentStudent,2/7/1993,C:/abc,CS,8/30/2020,34 Mass Avenue,Apt 25,2116,MA,Boston,5732
+sharma.ritika@husky.neu.edu,Ritika,Sharma,R,8578914675,Boston,ritika21494,CurrentStudent,2/14/1994,C:/abc,CS,8/30/2020,115 St Stephen Street,Apt 26,2115,MA,Boston,5732
+bawa.ruchit@husky.neu.edu,Ruchit ,Bawa,R,8578914676,Boston,ruchit81592,CurrentStudent,8/15/1992,C:/abc,CS,8/30/2020,39 Hemenway,Apt 27,2123,MA,Boston,5732
+singh.ranveer@husky.neu.edu,Ranveer,Singh,R,8578914677,Boston,ranveer1692,IncomingStudent,1/6/1992,C:/abc,CS,8/30/2020,HouseNb 721,Sector 11B,160011,Chandigarh,Chandigarh,5732
+singh.deepika@husky.neu.edu,Deepika,Singh,D,8578914678,Boston,deepika6793,IncomingStudent,6/7/1993,C:/abc,IS,8/30/2020,HouseNb 722,Sector 11B,160011,Chandigarh,Chandigarh,5732
+kapoor.kareena@husky.neu.edu,Kareena,Kapoor,K,8578914679,Boston,kareena3794,IncomingStudent,3/7/1994,C:/abc,IS,8/30/2020,HouseNb 723,Sector 11B,160011,Chandigarh,Chandigarh,5732
+kapoor.shahid@husky.neu.edu,Shahid,Kapoor,S,8578914680,Boston,shahis2194,CurrentStudent,2/1/1994,C:/abc,IS,8/30/2020,34 Mass Avenue,Apt 28,2116,MA,Boston,5732
+"pathak,naman@husky.neu.edu",Naman,Pathak,N,8578914681,Boston,naman102594,CurrentStudent,10/25/1994,C:/abc,IS,8/30/2020,34 Mass Avenue,Apt 29,2116,MA,Boston,5732
+sharma.ankush@husky.neu.edu,Ankush,Sharma,A,8578914682,Boston,ankush71096,IncomingStudent,7/10/1996,C:/abc,IS,8/30/2020,HouseNb 724,Sector 11B,160011,Chandigarh,Chandigarh,5732
+singla.lovish@husky.neu.edu,Lovish,Singla,L,8578914683,Boston,lovish6492,CurrentStudent,6/4/1992,C:/abc,IS,8/30/2020,39 Hemenway,Apt 30,2123,MA,Boston,5732
+sharma.naman@husky.neu.edu,Naman,Sharma,N,8578914684,Boston,naman4991,CurrentStudent,4/9/1991,C:/abc,CS,8/30/2020,39 Hemenway,Apt 31,2123,MA,Boston,5732

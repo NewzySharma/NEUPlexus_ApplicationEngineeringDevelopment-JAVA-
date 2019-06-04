@@ -1,0 +1,123 @@
+2018-12-08 06:18:52 INFO  ConfigureSystem:28 - System admin account created
+2018-12-08 06:18:58 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:19:04 INFO  ManageEnterpriseJPanel:200 - Network added Boston
+2018-12-08 06:19:11 INFO  ManageEnterpriseJPanel:200 - Network added Seattle
+2018-12-08 06:20:35 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:22:05 INFO  ConfigureSystem:28 - System admin account created
+2018-12-08 06:22:10 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:22:16 INFO  ManageEnterpriseJPanel:200 - Network added Boston
+2018-12-08 06:22:21 INFO  ManageEnterpriseJPanel:200 - Network added Seattle
+2018-12-08 06:23:17 ERROR ManageEnterpriseAdminJPanel:307 - Exception while creating admin[Ljava.lang.StackTraceElement;@5277648
+2018-12-08 06:24:18 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:25:33 ERROR ManageEnterpriseAdminJPanel:307 - Exception while creating admin[Ljava.lang.StackTraceElement;@5f408f09
+2018-12-08 06:26:01 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:27:14 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:30:09 INFO  ConfigureSystem:28 - System admin account created
+2018-12-08 06:30:15 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:30:21 INFO  ManageEnterpriseJPanel:200 - Network added Boston
+2018-12-08 06:30:26 INFO  ManageEnterpriseJPanel:200 - Network added Seattle
+2018-12-08 06:32:42 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:33:43 INFO  UserLogin:182 - User admin logged in
+2018-12-08 06:34:06 INFO  ManageEnterpriseAdminJPanel:303 - Enterprise admin created qna@husky.neu.edu
+2018-12-08 06:34:25 INFO  ManageEnterpriseAdminJPanel:303 - Enterprise admin created acc@husky.neu.edu
+2018-12-08 06:34:45 INFO  ManageEnterpriseAdminJPanel:303 - Enterprise admin created car@husky.neu.edu
+2018-12-08 06:35:03 INFO  ManageEnterpriseAdminJPanel:303 - Enterprise admin created mgmt@husky.neu.edu
+2018-12-08 06:35:56 INFO  ManageEnterpriseAdminJPanel:303 - Enterprise admin created qna.seattle@husky.neu.edu
+2018-12-08 06:36:43 INFO  UserLogin:208 - User qna@husky.neu.edu logged in
+2018-12-08 06:36:48 INFO  ManageOrganizationJPanel:221 - Organization Current Student Organization added successfully
+2018-12-08 06:36:50 INFO  ManageOrganizationJPanel:221 - Organization Incoming Student Organization added successfully
+2018-12-08 06:36:53 INFO  ManageOrganizationJPanel:221 - Organization Alumni Organization added successfully
+2018-12-08 06:38:18 ERROR DataProcessor:94 - Error while parsingjava.lang.NumberFormatException: For input string: "Boston"
+2018-12-08 06:38:18 DEBUG DataProcessor:55 - User catalogue read successfully
+2018-12-08 06:38:19 INFO  ImportUsersWorkArea:155 - Users imported successfully
+2018-12-08 06:39:05 INFO  UserLogin:208 - User acc@husky.neu.edu logged in
+2018-12-08 06:39:09 INFO  ManageOrganizationJPanel:221 - Organization Current Student Organization added successfully
+2018-12-08 06:39:12 INFO  ManageOrganizationJPanel:221 - Organization Incoming Student Organization added successfully
+2018-12-08 06:39:22 ERROR DataProcessor:94 - Error while parsingjava.lang.NumberFormatException: For input string: "Boston"
+2018-12-08 06:39:22 DEBUG DataProcessor:55 - User catalogue read successfully
+2018-12-08 06:39:23 INFO  ImportUsersWorkArea:155 - Users imported successfully
+2018-12-08 06:39:40 INFO  UserLogin:208 - User car@husky.neu.edu logged in
+2018-12-08 06:39:46 INFO  ManageOrganizationJPanel:221 - Organization Current Student Organization added successfully
+2018-12-08 06:39:48 INFO  ManageOrganizationJPanel:221 - Organization Alumni Organization added successfully
+2018-12-08 06:39:58 ERROR DataProcessor:94 - Error while parsingjava.lang.NumberFormatException: For input string: "Boston"
+2018-12-08 06:39:58 DEBUG DataProcessor:55 - User catalogue read successfully
+2018-12-08 06:39:59 INFO  ImportUsersWorkArea:155 - Users imported successfully
+2018-12-08 06:40:20 INFO  UserLogin:208 - User mgmt@husky.neu.edu logged in
+2018-12-08 06:41:06 INFO  ManageOrganizationJPanel:221 - Organization Manager Organization added successfully
+2018-12-08 06:42:12 INFO  UserLogin:208 - User qna.seattle@husky.neu.edu logged in
+2018-12-08 06:42:15 INFO  ManageOrganizationJPanel:221 - Organization Current Student Organization added successfully
+2018-12-08 06:42:18 INFO  ManageOrganizationJPanel:221 - Organization Incoming Student Organization added successfully
+2018-12-08 06:42:20 INFO  ManageOrganizationJPanel:221 - Organization Alumni Organization added successfully
+2018-12-08 06:42:30 ERROR DataProcessor:94 - Error while parsingjava.lang.NumberFormatException: For input string: "Boston"
+2018-12-08 06:42:30 DEBUG DataProcessor:55 - User catalogue read successfully
+2018-12-08 06:42:31 INFO  ImportUsersWorkArea:155 - Users imported successfully
+2018-12-08 06:43:48 INFO  UserLogin:208 - User qna.seattle@husky.neu.edu logged in
+2018-12-08 06:43:58 INFO  ViewUsers:143 - User deleted bakshi.a@husky.neu.edu
+2018-12-08 06:44:08 INFO  ViewUsers:143 - User deleted sharma.new@husky.neu.edu
+2018-12-08 06:44:16 INFO  ViewUsers:143 - User deleted pathak.sha@husky.neu.edu
+2018-12-08 06:44:26 INFO  ViewUsers:143 - User deleted test
+2018-12-08 06:44:31 INFO  ViewUsers:143 - User deleted test1
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 ERROR DataProcessor:94 - Error while parsingjava.lang.ArrayIndexOutOfBoundsException: 0
+2018-12-08 06:46:40 DEBUG DataProcessor:55 - User catalogue read successfully
+2018-12-08 06:46:41 INFO  ImportUsersWorkArea:155 - Users imported successfully
+2018-12-08 06:47:08 INFO  UserLogin:208 - User bakshi.a@husky.neu.edu logged in
+2018-12-08 06:47:28 DEBUG AskAQuestion:211 - User bakshi.a@husky.neu.edu posted a question on QnA Portal
+2018-12-08 06:47:50 DEBUG AskAQuestion:211 - User bakshi.a@husky.neu.edu posted a question on QnA Portal
+2018-12-08 06:48:13 DEBUG AskAQuestion:211 - User bakshi.a@husky.neu.edu posted a question on QnA Portal
+2018-12-08 06:48:36 DEBUG AskAQuestion:211 - User bakshi.a@husky.neu.edu posted a question on QnA Portal
+2018-12-08 06:48:55 DEBUG AskAQuestion:211 - User bakshi.a@husky.neu.edu posted a question on QnA Portal
+2018-12-08 06:50:20 INFO  ConfirmBookApartmentDetails:187 - Accommodation Request sent for admin approval 57820
+2018-12-08 06:51:23 INFO  ConfirmBookApartmentDetails:187 - Accommodation Request sent for admin approval 86483
+2018-12-08 06:52:08 INFO  UserLogin:208 - User manager@husky.neu.edu logged in
+2018-12-08 06:53:21 INFO  AccommodationDetails:444 - Accommodation listing approved 57820
+2018-12-08 06:53:57 INFO  UserLogin:208 - User sharma.new@husky.neu.edu logged in
+2018-12-08 06:54:13 INFO  UserLogin:208 - User sharma.new@husky.neu.edu logged in
+2018-12-08 06:57:17 INFO  UserLogin:208 - User apurva.bakshi@husky.neu.edu logged in
+2018-12-08 07:02:02 INFO  UserLogin:208 - User pathak.sha@husky.neu.edu logged in
+2018-12-08 07:04:37 INFO  UserLogin:208 - User manager@husky.neu.edu logged in
+2018-12-08 07:41:45 INFO  UserLogin:208 - User bakshi.a@husky.neu.edu logged in
